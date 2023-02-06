@@ -1,11 +1,11 @@
-# {{TITLE}}
+# {title}
 
-{{DESCRIPTION}}
+{description}
 
-Function: `{{FUNCTION_NAME}}` should behave as following:
+Function: `{function_name}` should behave as following:
 
 -----------------------------------
 
 | INPUT | OUTPUT |
 | :--- | ---: |
-{{INPUT_OUTPUT_TABLE}}
+{input_output_table}
